@@ -1,5 +1,7 @@
 # Java Library Object Model
 
+![Java CI](https://github.com/aaminter/dz15/actions/workflows/ci.yml/badge.svg)
+
 Учебная объектная модель библиотеки на Java.
 
 ## Реализовано
